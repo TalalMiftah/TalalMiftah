@@ -88,13 +88,3 @@
 [![Upwork](https://img.shields.io/badge/Upwork-HIRE_ME-6fda44?style=for-the-badge&labelColor=202526&logo=upwork&logoColor=6fda44)](https://www.upwork.com/freelancers/~tmiftah)
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=80ee63&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<sub><code>// EOF — BUILD SUCCESSFUL — 0 ERRORS · 0 WARNINGS · radius: 0px</code></sub>
-
-</div>
