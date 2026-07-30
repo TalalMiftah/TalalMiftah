@@ -15,7 +15,7 @@
 ![LOCATION](https://img.shields.io/badge/LOCATION-127.0.0.1-e5e7eb?style=flat-square&labelColor=202526&color=313637)
 ![FREELANCE](https://img.shields.io/badge/FREELANCE-OPEN-80ee63?style=flat-square&labelColor=202526&color=80ee63)
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-tmiftah.vercel.app-deffdd?style=flat-square&labelColor=202526&color=deffdd)](https://tmiftah.vercel.app)
-![](https://komarev.com/ghpvc/?username=TalalMiftah&label=Profile+Views&base=13849&&color=blueviolet&style=flat)
+![](https://komarev.com/ghpvc/?username=TalalMiftah&label=Profile+Views&base=0&&color=blueviolet&style=flat)
 
 </div>
 
