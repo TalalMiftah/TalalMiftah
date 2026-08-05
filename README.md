@@ -40,28 +40,15 @@
 
 ---
 
-## `> GITHUB_STATS`
-
-<p align="center">
-  <img
-    height="175em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalalMiftah&layout=compact&theme=merko&bg_color=202526&title_color=80ee63&text_color=deffdd&border_color=e5e7eb&border_radius=0&hide_border=false&langs_count=8"
-  />
-  <img
-    height="175em"
-    src="https://streak-stats.demolab.com?user=TalalMiftah&theme=merko&background=202526&border=e5e7eb&ring=80ee63&fire=deffdd&currStreakLabel=80ee63&sideLabels=deffdd&currStreakNum=80ee63&sideNums=deffdd&dates=889481&stroke=e5e7eb"
-  />
-</p>
-
----
-
 ## `> CONTRIBUTION_MATRIX`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TalalMiftah&bg_color=202526&color=80ee63&line=80ee63&point=deffdd&area=true&area_color=80ee6322&border_color=e5e7eb&hide_border=false&custom_title=COMMIT+ACTIVITY+%2F%2F+LAST+31+DAYS&title_color=80ee63)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
+
+---
 
 ---
 
