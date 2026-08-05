@@ -11,7 +11,7 @@
 <br/>
 
 <!-- STATUS ROW — exact bg #202526, border #e5e7eb, accent #80ee63 -->
-![FREELANCE](https://img.shields.io/badge/FREELANCE-OPEN-80ee63?style=flat-square&labelColor=202526&color=80ee63)
+[![FREELANCE](https://img.shields.io/badge/FREELANCE-OPEN-80ee63?style=flat-square&labelColor=202526&color=80ee63)](https://www.upwork.com/freelancers/~01ace41250db12e212)
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-tmiftah.vercel.app-deffdd?style=flat-square&labelColor=202526&color=deffdd)](https://tmiftah.vercel.app)
 
 </div>
