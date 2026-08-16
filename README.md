@@ -1,7 +1,15 @@
 <div align="center">
 
 <!-- ANIMATED HEADER — capsule-render waving, exact palette tokens -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=80ee63&height=220&section=header&text=TALAL%20MIFTAH&fontSize=72&fontColor=deffdd&fontAlignY=40&fontAlign=50&desc=FULL%E2%80%93STACK%20DEVELOPER%20%2F%2F%20SYSTEMS%20ENGINEER&descAlignY=60&descSize=17&descColor=202526&animation=fadeIn" width="100%"/>
+<h3><code>tmiftah@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./talal-ascii.svg" width="370" alt="Talal Miftah — ASCII portrait" /></td>
+</tr>
+</table>
+
+<br>
 
 <!-- ANIMATED TYPING — Space Mono to match accent-pixel font role -->
 <a href="https://tmiftah.vercel.app">
