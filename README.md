@@ -11,14 +11,10 @@
 
 <br>
 
-## `> CONTRIBUTION_MATRIX`
-
 <div align="center">
 
 <img src="./contrib-heatmap.svg" width="860" alt="Talal's GitHub contribution graph — auto-refreshed daily" />
 </div>
-
----
 
 ---
 
